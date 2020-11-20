@@ -6,6 +6,8 @@ Nemo, the cinnamon DE (Desktop Environment) file manager, supports adding action
 
 So, for adding the `open in vscode` option, you just need to place the file `vscode.nemo_action` in the `actions` folder in the mentioned directory.
 
+This is a version that uses the icon from Linux Mint, if you are using cinnamon in another distribution, check out https://github.com/mhsattarian/nemo-open-in-vscode.
+
 # Installation
 
 Clone this repository and run:
